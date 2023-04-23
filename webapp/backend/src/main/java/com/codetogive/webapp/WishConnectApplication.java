@@ -1,13 +1,13 @@
-package com.javamaster;
+package com.codetogive.webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CodetogiveProjectApplication {
+public class WishConnectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CodetogiveProjectApplication.class, args);
+		SpringApplication.run(WishConnectApplication.class, args);
 	}
 
 }
