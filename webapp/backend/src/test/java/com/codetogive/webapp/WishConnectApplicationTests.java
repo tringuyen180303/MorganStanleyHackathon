@@ -1,10 +1,10 @@
-package com.javamaster;
+package com.codetogive.webapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CodetogiveProjectApplicationTests {
+class WishConnectApplicationTests {
 
 	@Test
 	void contextLoads() {
